@@ -76,7 +76,8 @@ const Contact = ({ isDarkMode }: ContactProps) => {
         transition={{ duration: 0.5, delay: 0.7 }}
         className="text-center max-w-7xl mx-auto mt-5 font-ovo flex flex-col"
       >
-        Give me a ring! If you need that spark in your project, I'm your man.
+        Give me a ring! If you need that spark in your project, I&apos;m your
+        man.
         <div className="flex justify-end">
           <Image
             src={isDarkMode ? assets.call_me_dark : assets.call_me}

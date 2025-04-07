@@ -85,7 +85,7 @@ const About = ({ isDarkMode }: AboutProps) => {
             industries, consistently delivering high-quality work that meets and
             exceeds their expectations. My ability to blend creativity with
             technical proficiency allows me to produce innovative and effective
-            designs tailored to each project's unique requirements.
+            designs tailored to each project&apos;s unique requirements.
           </p>
 
           <motion.ul

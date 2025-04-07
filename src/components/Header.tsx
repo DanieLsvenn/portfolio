@@ -51,7 +51,7 @@ const Header = ({ isDarkMode }: HeaderProps) => {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-ovo"
           >
-            Hi! I'm Danielsven 🔥
+            Hi! I&apos;m Danielsven 🔥
           </motion.h3>
 
           <motion.h1
